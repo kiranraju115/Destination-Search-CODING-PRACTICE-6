@@ -1,0 +1,28 @@
+/* Write your CSS here */
+.bg-container {
+  padding-top: 20px;
+  display: flex;
+  justify-content: center;
+}
+.header {
+  text-align: center;
+  font-size: 32px;
+  color: ;
+}
+.search-cont {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.search-element {
+}
+.search-logo {
+  height: 20px;
+  width: 20px;
+}
+.destination-list {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  margin-top: 48px;
+}
